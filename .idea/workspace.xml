@@ -29,46 +29,6 @@
     <expand />
     <select />
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>fleft current_date</find>
-      <find>search_form_popup</find>
-      <find>about</find>
-      <find>scrollSpyTrigger</find>
-      <find>03 HEADER</find>
-      <find>single-blog.html</find>
-      <find>what the</find>
-      <find>mCSB_1_container</find>
-      <find>sliding_menu</find>
-      <find>mCustomScrollBox</find>
-      <find>mCSB_1</find>
-      <find>searc</find>
-      <find>search</find>
-      <find>CORPOREDES 365 - EXPERIENCIAS PARA EL ARTE: UN UNIVERSO DE CAPACIDADES</find>
-      <find>m0</find>
-      <find>owl</find>
-      <find>staff-img</find>
-      <find>staffs_carousel</find>
-      <find>.contact_cols .contact_col .nav-tabs li a .fa-question</find>
-      <find>.tool</find>
-      <find>.contactForm form .input-group .form-control</find>
-      <find>.header1 .navbar .rightSide_nav #top_nav</find>
-      <find>.sliding_menu .navByCat .nav li a</find>
-      <find>contact_form</find>
-      <find>start</find>
-      <find>ciudad</find>
-      <find>textarea</find>
-      <find>init</find>
-      <find>a:before</find>
-      <find>SISTEMATIS</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>proyecto.php</replace>
-      <replace />
-      <replace>&lt;option value=</replace>
-      <replace>AXIATECH</replace>
-    </replaceStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
