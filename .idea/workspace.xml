@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1ef65492-9471-428d-9613-8dedabc4b429" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>fleft current_date</find>
+      <find>search_form_popup</find>
+      <find>about</find>
+      <find>scrollSpyTrigger</find>
+      <find>03 HEADER</find>
+      <find>single-blog.html</find>
+      <find>what the</find>
+      <find>mCSB_1_container</find>
+      <find>sliding_menu</find>
+      <find>mCustomScrollBox</find>
+      <find>mCSB_1</find>
+      <find>searc</find>
+      <find>search</find>
+      <find>CORPOREDES 365 - EXPERIENCIAS PARA EL ARTE: UN UNIVERSO DE CAPACIDADES</find>
+      <find>m0</find>
+      <find>owl</find>
+      <find>staff-img</find>
+      <find>staffs_carousel</find>
+      <find>.contact_cols .contact_col .nav-tabs li a .fa-question</find>
+      <find>.tool</find>
+      <find>.contactForm form .input-group .form-control</find>
+      <find>.header1 .navbar .rightSide_nav #top_nav</find>
+      <find>.sliding_menu .navByCat .nav li a</find>
+      <find>contact_form</find>
+      <find>start</find>
+      <find>ciudad</find>
+      <find>textarea</find>
+      <find>init</find>
+      <find>a:before</find>
+      <find>SISTEMATIS</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>proyecto.php</replace>
+      <replace />
+      <replace>&lt;option value=</replace>
+      <replace>AXIATECH</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fId9iXEcyFdzZlCXDe7mxWggGS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp\www\sistematis_v2\sistematics\backend\model" />
+      <recent name="C:\wamp\www\sistematis_v2\sistematics\backend\views" />
+      <recent name="C:\wamp\www\sistematis_v2\sistematics\views" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp\www\sistematis_v2\sistematics\backend\views" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ef65492-9471-428d-9613-8dedabc4b429" name="Default" comment="" />
+      <created>1514050243409</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1514050243409</updated>
+      <workItem from="1514050245284" duration="12705000" />
+      <workItem from="1514145791823" duration="274000" />
+      <workItem from="1515374380293" duration="1241000" />
+      <workItem from="1516676301335" duration="953000" />
+      <workItem from="1516757064442" duration="23000" />
+      <workItem from="1516936001551" duration="5265000" />
+      <workItem from="1521299023480" duration="8205000" />
+      <workItem from="1521475696340" duration="31286000" />
+      <workItem from="1521519006884" duration="12000" />
+      <workItem from="1521608626917" duration="1176000" />
+      <workItem from="1523149504406" duration="15925000" />
+      <workItem from="1523203131323" duration="16338000" />
+      <workItem from="1523239072226" duration="9678000" />
+      <workItem from="1523732985036" duration="16538000" />
+      <workItem from="1523823998817" duration="25136000" />
+      <workItem from="1523934617962" duration="1204000" />
+      <workItem from="1524202072991" duration="2799000" />
+      <workItem from="1524359757016" duration="1204000" />
+      <workItem from="1525568767366" duration="3398000" />
+      <workItem from="1525666840690" duration="70000" />
+      <workItem from="1525668337180" duration="17000" />
+      <workItem from="1525745765069" duration="156000" />
+      <workItem from="1595909394948" duration="607000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
