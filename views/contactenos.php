@@ -14,7 +14,7 @@ require_once '../controller/controller.contacto.php';
             <!-- Nav tabs -->
             <ul class="nav nav-tabs" role="tablist">
                 <li role="presentation"><a href="#suscribe_form" aria-controls="suscribe_form" role="tab"
-                                           data-toggle="tab">Investigación <i data-toggle="tooltip" data-placement="top"
+                                           data-toggle="tab">Proyectos de investigacion <i data-toggle="tooltip" data-placement="top"
                                                                               title="Envianos tu Investigacion"
                                                                               class="fa fa-question"></i></a></li>
                 <li role="presentation"><a data-toggle="modal" data-target="#modal-donacion">
